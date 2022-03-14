@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0D694E22-1794-4E20-BA82-E8F63B2EA6B8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0D694E22-1794-4E20-BA82-E8F63B2EA6B8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ICT1009 CPP Proj project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ICT1009 CPP Proj</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ICT1009 CPP Proj</string>
+			<key>timeStartedRecording</key>
+			<real>668922367.10801697</real>
+			<key>timeStoppedRecording</key>
+			<real>668922375.80691695</real>
+			<key>title</key>
+			<string>Run ICT1009 CPP Proj</string>
+			<key>uniqueIdentifier</key>
+			<string>0D694E22-1794-4E20-BA82-E8F63B2EA6B8</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

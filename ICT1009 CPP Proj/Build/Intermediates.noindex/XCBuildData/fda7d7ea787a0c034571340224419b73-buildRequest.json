@@ -1,0 +1,58 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "1a0fd49b74e69491ce81895544551f456884139f5105a50e5a50734c721827de"
+    }
+  ],
+  "containerPath" : "/Users/kevinthom/Downloads/SIT/ICT1009 - OOP/CPP Proj/ict1009-team22-2022-cpp/ICT1009 CPP Proj/ICT1009 CPP Proj.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/kevinthom/Downloads/SIT/ICT1009 - OOP/CPP Proj/ict1009-team22-2022-cpp/ICT1009 CPP Proj/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/kevinthom/Downloads/SIT/ICT1009 - OOP/CPP Proj/ict1009-team22-2022-cpp/ICT1009 CPP Proj/Build/Products",
+      "derivedDataPath" : "/Users/kevinthom/Downloads/SIT/ICT1009 - OOP/CPP Proj/ict1009-team22-2022-cpp/ICT1009 CPP Proj/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/kevinthom/Downloads/SIT/ICT1009 - OOP/CPP Proj/ict1009-team22-2022-cpp/ICT1009 CPP Proj/DerivedData/ICT1009 CPP Proj/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/kevinthom/Downloads/SIT/ICT1009 - OOP/CPP Proj/ict1009-team22-2022-cpp/ICT1009 CPP Proj/DerivedData/ICT1009 CPP Proj/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/kevinthom/Downloads/SIT/ICT1009 - OOP/CPP Proj/ict1009-team22-2022-cpp/ICT1009 CPP Proj/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
